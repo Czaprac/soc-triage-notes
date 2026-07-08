@@ -17,6 +17,21 @@ The goal of this repository is to document my practical learning process in a cl
 
 This is a learning repository. It is not a production SOC playbook.
 
+## Scope and Data Handling
+
+This repository is based on generic learning scenarios.
+
+It does not contain:
+
+- Real company logs
+- Real user data
+- Passwords or credentials
+- API keys or tokens
+- Private screenshots
+- Confidential information from any organization
+
+Any examples used in this repository are simplified and created for learning purposes only.
+
 I use it to practice:
 
 * Writing clear technical notes
