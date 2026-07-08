@@ -32,6 +32,11 @@ I use it to practice:
 * Simple incident documentation template
 * SQL examples for basic security event review
 
+## Current Materials
+
+- [Basic Alert Triage Checklist](checklists/basic-alert-triage-checklist.md)
+- [Failed Login Attempt - Basic Triage Notes](case-notes/failed-login-attempt.md)
+
 ## About Me
 
 I am an entry-level cybersecurity candidate interested in SOC operations, IT support, networking, Windows/Linux administration, and incident documentation.
