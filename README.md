@@ -51,7 +51,8 @@ I use it to practice:
 
 - [Basic Alert Triage Checklist](checklists/basic-alert-triage-checklist.md)
 - [Failed Login Attempt - Basic Triage Notes](case-notes/failed-login-attempt.md)
-
+- [Alert Notes Template](templates/alert-notes-template.md)
+  
 ## About Me
 
 I am an entry-level cybersecurity candidate interested in SOC operations, IT support, networking, Windows/Linux administration, and incident documentation.
