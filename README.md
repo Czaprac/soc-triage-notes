@@ -51,6 +51,7 @@ I use it to practice:
 
 - [Basic Alert Triage Checklist](checklists/basic-alert-triage-checklist.md)
 - [Failed Login Attempt - Basic Triage Notes](case-notes/failed-login-attempt.md)
+- [Suspicious IP Review - Basic Triage Notes](case-notes/suspicious-ip-review.md)
 - [Alert Notes Template](templates/alert-notes-template.md)
   
 ## About Me
