@@ -53,6 +53,7 @@ I use it to practice:
 - [Failed Login Attempt - Basic Triage Notes](case-notes/failed-login-attempt.md)
 - [Suspicious IP Review - Basic Triage Notes](case-notes/suspicious-ip-review.md)
 - [Alert Notes Template](templates/alert-notes-template.md)
+- [Failed Login Alert - Example Notes](examples/failed-login-alert-example.md)
   
 ## About Me
 
